@@ -1,7 +1,7 @@
 ﻿using UserModel;
 
-static void NewMethod(){
-    Console.WriteLine("Bice nesto i od Dejana...");
+static void NewMethod(string name = "default"){
+    Console.WriteLine($"Bice nesto i od {name}...");
 }
 
 Console.WriteLine("Hello, World!");
@@ -9,6 +9,8 @@ Console.WriteLine("Hello, World!");
  User.AddOne();
  User.AddOne();
 
+ NewMethod("user1");
+ NewMethod("user2");
  NewMethod();
 
  int number = User.GetNum();

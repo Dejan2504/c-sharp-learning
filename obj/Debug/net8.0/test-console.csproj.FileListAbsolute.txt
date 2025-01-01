@@ -12,3 +12,4 @@
 /home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.pdb
 /home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.genruntimeconfig.cache
 /home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/ref/test-console.dll
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.sourcelink.json
