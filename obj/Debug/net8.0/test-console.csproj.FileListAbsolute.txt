@@ -1,0 +1,14 @@
+/home/sifra/Desktop/test/c -sharp/test-console/bin/Debug/net8.0/test-console
+/home/sifra/Desktop/test/c -sharp/test-console/bin/Debug/net8.0/test-console.deps.json
+/home/sifra/Desktop/test/c -sharp/test-console/bin/Debug/net8.0/test-console.runtimeconfig.json
+/home/sifra/Desktop/test/c -sharp/test-console/bin/Debug/net8.0/test-console.dll
+/home/sifra/Desktop/test/c -sharp/test-console/bin/Debug/net8.0/test-console.pdb
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.GeneratedMSBuildEditorConfig.editorconfig
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.AssemblyInfoInputs.cache
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.AssemblyInfo.cs
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.csproj.CoreCompileInputs.cache
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.dll
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/refint/test-console.dll
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.pdb
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/test-console.genruntimeconfig.cache
+/home/sifra/Desktop/test/c -sharp/test-console/obj/Debug/net8.0/ref/test-console.dll
