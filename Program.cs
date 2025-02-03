@@ -1,22 +1,28 @@
-﻿using UserModel;
+﻿
+class Person {
+    public string Name {get; set;} = "jebigaa";
+    public int Age {get; set;}
 
-static void NewMethod(string name = "default"){
-    Console.WriteLine($"Bice nesto i od {name}...");
+    public Person(string name, int age){
+
+        Name = name;
+        Age = age;
+    }
 }
 
-Console.WriteLine("Hello, World!");
- User.AddOne();
- User.AddOne();
- User.AddOne();
+class Program
+{
 
- NewMethod("user1");
- NewMethod("user2");
- NewMethod();
+public static void Main(string[] args){
+    Person newPerson = new Person("Dejan", 12){
+        Age = 42
+    };
 
- int number = User.GetNum();
+    // newPerson.Age = 23;
+    Console.WriteLine(newPerson.Age);
+    }    
+}
 
-
-Console.WriteLine($"This is my number {number}");
 
 // See https://aka.ms/new-console-template for more information
 
